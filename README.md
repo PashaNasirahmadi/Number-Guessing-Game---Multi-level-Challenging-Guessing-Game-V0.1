@@ -29,7 +29,7 @@ A simple but progressively challenging number guessing game built with Python. U
 
 If the player fails all rounds, the final score is 0.
 
-#📫 Contact
+📫 Contact
 
 Created by Pasha Nasirahmadi
 GitHub: @PashaNasirahmadi
