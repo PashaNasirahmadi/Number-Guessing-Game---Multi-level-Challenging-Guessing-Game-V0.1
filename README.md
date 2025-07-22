@@ -29,6 +29,11 @@ A simple but progressively challenging number guessing game built with Python. U
 
 If the player fails all rounds, the final score is 0.
 
+#📫 Contact
+
+Created by Pasha Nasirahmadi
+GitHub: @PashaNasirahmadi
+
 
 ## 🚀 Getting Started
 
@@ -37,10 +42,7 @@ If the player fails all rounds, the final score is 0.
 - Python 3.7 or later
 - `tkinter` (comes pre-installed with standard Python distributions)
 
-###📫 Contact
 
-Created by Pasha Nasirahmadi
-GitHub: @PashaNasirahmadi
 
 
 ### ▶️ Run the Game
