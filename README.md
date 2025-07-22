@@ -19,6 +19,16 @@ A simple but progressively challenging number guessing game built with Python. U
 - 📉 **Progressive Challenge:** Fewer points and more range as you move forward.
 
 ---
+| Round | Range    | Attempts | Max Points |
+| ----- | -------- | -------- | ---------- |
+| 1     | 1 to 10  | 5        | 50         |
+| 2     | 1 to 20  | 5        | 25         |
+| 3     | 1 to 100 | 6        | 15         |
+| 4     | 1 to 100 | 7        | 10         |
+| 5     | 1 to 100 | 10       | 5          |
+
+If the player fails all rounds, the final score is 0.
+
 
 ## 🚀 Getting Started
 
@@ -26,6 +36,12 @@ A simple but progressively challenging number guessing game built with Python. U
 
 - Python 3.7 or later
 - `tkinter` (comes pre-installed with standard Python distributions)
+
+###📫 Contact
+
+Created by Pasha Nasirahmadi
+GitHub: @PashaNasirahmadi
+
 
 ### ▶️ Run the Game
 
@@ -35,3 +51,4 @@ Clone this repository and run the script:
 git clone https://github.com/PashaNasirahmadi/guess-the-number-game.git
 cd guess-the-number-game
 python game.py
+
