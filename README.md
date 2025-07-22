@@ -32,6 +32,6 @@ A simple but progressively challenging number guessing game built with Python. U
 Clone this repository and run the script:
 
 ```bash
-git clone https://github.com/YourUsername/guess-the-number-game.git
+git clone https://github.com/PashaNasirahmadi/guess-the-number-game.git
 cd guess-the-number-game
 python game.py
